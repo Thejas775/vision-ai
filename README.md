@@ -32,3 +32,10 @@ How It Works<br>
 
 export REPLICATE_API_TOKEN= <REPLICATE_API_TOKEN>
 run the above command in command prompt to activate the token
+<h2>Collaborators</h2>
+<ul>
+ <li>Thejas Raja Elandassery</li>
+  <li>Abhay Gupta</li>
+  <li>Aditya Kumar</li>
+  <li>Sanika Kalaskar</li>
+</ul>

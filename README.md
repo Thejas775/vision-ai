@@ -13,6 +13,7 @@ Llava Model 📈: The project leverages the power of the Llava model for process
 Real-time Image Capture 📷: Vision-AI captures real-time images using the Raspberry Pi camera module.<br>
 
 How It Works<br>
+
 <ol>
   <li>Audio Input: Users can interact with the system using voice commands such as "Hey Vision" or "Hello Vision."</li>
 
@@ -28,3 +29,6 @@ How It Works<br>
 
 <li>User Feedback and Analytics: User satisfaction and interaction data are collected through feedback forums and Firebase analytics.</li>
 </ol>
+
+export REPLICATE_API_TOKEN= <REPLICATE_API_TOKEN>
+run the above command in command prompt to activate the token

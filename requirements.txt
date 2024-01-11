@@ -1,0 +1,7 @@
+firebase-admin
+google-auth
+gtts
+replicate 
+numpy
+opencv-python
+speechrecognition

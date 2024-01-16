@@ -56,6 +56,7 @@ def text_to_speech(text):
 
 def call_api_with_firebase(prompt, image_url):
     #calling llava model
+    #
     output = replicate.run(
         "yorickvp/llava-13b:e272157381e2a3bf12df3a8edd1f38d1dbd736bbb7437277c8b34175f8fce358",
         input={"image": image_url, "prompt": prompt},

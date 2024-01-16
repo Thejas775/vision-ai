@@ -37,5 +37,5 @@ run the above command in command prompt to activate the token
  <li>Thejas Raja Elandassery</li>
   <li>Abhay Gupta</li>
   <li>Aditya Kumar</li>
-  <li>Sanika Kalaskar</li>
+  <li>Sanika Kalaskar </li>
 </ul>

@@ -48,7 +48,7 @@ def record_audio():
         return None
 
 def text_to_speech(text):
-    #using google text to speech recognition
+    #using google text to speech recognition (gtts)
     tts = gTTS(text=text, lang='en')
     tts.save("output.mp3")
     sleep(2)
